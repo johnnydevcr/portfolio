@@ -1,5 +1,5 @@
 <template>
-  <div class="w-screen min-h-screen flex flex-col">
+  <div class="w-full min-h-screen flex flex-col">
     <header>
       <v-hero class="order-1" />
       <v-nav class="hidden lg:block lg:order-2" />
