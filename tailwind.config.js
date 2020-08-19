@@ -9,6 +9,7 @@ var colors = {
   "grey-light": "#9c9999",
   grey: "#282828",
   red: "#e53935",
+  'red-dark': "#d32f2f",
   blue: "#1a76f4",
   facebook: "#3b5998",
   twitter: "#00aced",

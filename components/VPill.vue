@@ -1,7 +1,7 @@
 <template>
   <div
     id="box"
-    class="bg-red py-1 px-3 border border-grey-dark shadow-material-1 mx-2 mb-2 rounded-lg text-white font-semibold"
+    class="bg-red py-1 px-3  shadow-material-1 mx-2 mb-2 rounded-lg text-white font-semibold"
   >
     <font-awesome-icon
       :icon="['fab', `${icon}`]"
