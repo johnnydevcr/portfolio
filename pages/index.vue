@@ -33,14 +33,14 @@
       id="skills"
       class="mt-8 lg:mt-0 lg:ml-24 w-full lg:w-2/5"
     >
-      <h2 class="font-bold text-xl mb-4">My Skills</h2>
+      <h2 class="text-red font-bold text-xl mb-4">My Skills</h2>
       <div
         id="box-set"
         class="flex flex-row justify-around flex-wrap "
       >
         <div
           id="box"
-          class="w-5/12 my-2 flex flex-col items-center justify-center py-4 px-4 bg-red shadow-material-1 text-white"
+          class="w-5/12 my-2 flex flex-col items-center justify-center py-4 px-4 bg-grey shadow-material-1 text-white"
         >
           <font-awesome-icon
             :icon="['fas', 'laptop-code']"
@@ -50,7 +50,7 @@
         </div>
         <div
           id="box"
-          class="w-5/12 my-2 flex flex-col items-center justify-center py-4 px-4 bg-red shadow-material-1 text-white"
+          class="w-5/12 my-2 flex flex-col items-center justify-center py-4 px-4 bg-grey shadow-material-1 text-white"
         >
           <font-awesome-icon
             :icon="['fas', 'laptop-code']"
@@ -60,7 +60,7 @@
         </div>
         <div
           id="box"
-          class="w-5/12 my-2 flex flex-col items-center justify-center py-4 px-4 bg-red shadow-material-1 text-white"
+          class="w-5/12 my-2 flex flex-col items-center justify-center py-4 px-4 bg-grey shadow-material-1 text-white"
         >
           <font-awesome-icon
             :icon="['fas', 'laptop-code']"
@@ -70,7 +70,7 @@
         </div>
         <div
           id="box"
-          class="w-5/12 my-2 flex flex-col items-center justify-center py-4 px-4 bg-red shadow-material-1 text-white"
+          class="w-5/12 my-2 flex flex-col items-center justify-center py-4 px-4 bg-grey shadow-material-1 text-white"
         >
           <font-awesome-icon
             :icon="['fas', 'laptop-code']"
@@ -79,14 +79,14 @@
           <span class="my-1 lg:my-0 lg:ml-2">Projects</span>
         </div>
       </div>
-      <h2 class="font-bold text-xl my-4">My Knowledge</h2>
+      <h2 class="text-red font-bold text-xl my-4">My Knowledge</h2>
       <div
         id="box-set"
         class="flex flex-row justify-around flex-wrap "
       >
         <div
           id="box"
-          class="w-5/12 my-2 flex flex-col items-center justify-center py-4 px-4 bg-red shadow-material-1 text-white"
+          class="w-5/12 my-2 flex flex-col items-center justify-center py-4 px-4 bg-grey shadow-material-1 text-white"
         >
           <font-awesome-icon
             :icon="['fas', 'laptop-code']"
@@ -96,7 +96,7 @@
         </div>
         <div
           id="box"
-          class="w-5/12 my-2 flex flex-col items-center justify-center py-4 px-4 bg-red shadow-material-1 text-white"
+          class="w-5/12 my-2 flex flex-col items-center justify-center py-4 px-4 bg-grey shadow-material-1 text-white"
         >
           <font-awesome-icon
             :icon="['fas', 'laptop-code']"
@@ -106,7 +106,7 @@
         </div>
         <div
           id="box"
-          class="w-5/12 my-2 flex flex-col items-center justify-center py-4 px-4 bg-red shadow-material-1 text-white"
+          class="w-5/12 my-2 flex flex-col items-center justify-center py-4 px-4 bg-grey shadow-material-1 text-white"
         >
           <font-awesome-icon
             :icon="['fas', 'laptop-code']"
@@ -116,7 +116,7 @@
         </div>
         <div
           id="box"
-          class="w-5/12 my-2 flex flex-col items-center justify-center py-4 px-4 bg-red shadow-material-1 text-white"
+          class="w-5/12 my-2 flex flex-col items-center justify-center py-4 px-4 bg-grey shadow-material-1 text-white"
         >
           <font-awesome-icon
             :icon="['fas', 'laptop-code']"
